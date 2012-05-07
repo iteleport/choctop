@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{choctop}
-  s.version = "0.14.1"
+  s.version = "0.14.1p1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Dr Nic Williams", "Chris Bailey", "Patrick Huesler"]
-  s.date = %q{2011-01-31}
+  s.authors = ["Dr Nic Williams", "Chris Bailey", "Patrick Huesler", "Jason DiCioccio"]
+  s.date = %q{2012-05-07}
   s.default_executable = %q{install_choctop}
   s.description = %q{Build and deploy tools for Cocoa apps using Sparkle for distributions and upgrades; 
 it’s like Hoe but for Cocoa apps.
